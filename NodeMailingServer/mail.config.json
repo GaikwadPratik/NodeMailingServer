@@ -1,0 +1,13 @@
+﻿{
+  "AuthConfig": {
+    "CryptoAlgorithm": "aes-256-ctr",
+    "CryptoPassword": "",
+    "username": "",
+    "password": ""
+  },
+  "MailConfig": {
+    "host": "",
+    "port": ,
+    "fromMail": ""
+  }
+}
